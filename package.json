@@ -1,0 +1,23 @@
+{
+  "name": "talentmine",
+  "version": "1.0.0",
+  "description": "A music platform for artists and labels to connect.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkobrosky/talentmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkobrosky/talentmine/issues"
+  },
+  "homepage": "https://github.com/jkobrosky/talentmine#readme",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
